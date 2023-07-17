@@ -3,7 +3,7 @@ from blocks import Block
 ALIGNMENT = 'center'
 FONT = ('Courier', 12, 'normal')
 block = Block()
-SFILE = "D:\Zohaib Tahir\PyCharm Project\Breakout Game\highscore.txt"
+SFILE = "D:\Zohaib Tahir\PyCharm Project\Breakout Game\highscore.txt"     #Add your location here if you want to change.
 
 class Scoreboard(Turtle):
     def __init__(self):
